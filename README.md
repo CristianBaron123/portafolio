@@ -19,7 +19,6 @@ Soy estudiante de Ingeniería de Software con experiencia académica en desarrol
 - JavaScript
 - jQuery
 - Font Awesome
-- MixItUp (para filtros de proyectos)
 
 ---
 
